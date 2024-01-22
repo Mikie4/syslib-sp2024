@@ -31,7 +31,9 @@ done
 
 Here is a link to a website: [UKHC DevOps](https://devops.ukhc.org/).
 
-Here is an image: ![My Furry Family](https://photos.google.com/share/AF1QipMxkqCVQDQsHMIEteLoR2hfFLKnAZ1mkAx2r4Xgh3F8V5ThjDM_uF8D9PIFGrr9lQ?key=aXJJd2loMXE0OGZ1c1FMb3hldjBoTDg1Nko3aWt3)
+Here is an image: ![My Furry Family](https://lh3.googleusercontent.com/pw/ABLVV84EgOQGf7eACz5XEvjjJPobGbCs7f_BtkBwUrbK51Xq_sY_2Lt-e8VYdKVrKVxzUcWiY96VkKKocxEop9-Igy9uUr25FNsNGzCl6TYoSICmz3PnvR3OY0TMrkISzz4dnNjAyA69u4bwiUV-qCFEQRWW=w1671-h1291-s-no-gm)
+
+*I can't guarantee how long the above image link will continue to be available*
 
 ## this is a second heading
 
