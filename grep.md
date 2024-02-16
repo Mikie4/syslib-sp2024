@@ -40,4 +40,4 @@ awk -F" |{|}" 'BEGIN { printf "Documents with more than 25 pages: "} \
 { if( $6 - $4 > 25 ) count++ } END { print count }
 ```
 
-![CMD Pages](image-5.png)
+![CMD Pages](/img/image-5.png)
