@@ -16,7 +16,7 @@ I initially followed the tutorial verbatim. I'm only including "interesting" scr
 
 Here is my command history
 
-![CMD History](/imgimage-3.png)
+![CMD History](/img/image-3.png)
 
 # Grep
 
