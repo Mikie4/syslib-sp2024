@@ -4,19 +4,19 @@
 
 Since I am using docker desktop for the time being I thought I should include the upload and connection command.
 
-![CMD](image.png)
+![CMD](/img/image.png)
 
 ## Grep Tutorial
 
 I initially followed the tutorial verbatim. I'm only including "interesting" screenshots.
 
-![CMD](image-1.png)
+![CMD](/img/image-1.png)
 
-![CMD](image-2.png)
+![CMD](/img/image-2.png)
 
 Here is my command history
 
-![CMD History](image-3.png)
+![CMD History](/imgimage-3.png)
 
 # Grep
 
@@ -24,7 +24,7 @@ I used this command to see the different types of documents that were included i
 
 ```grep -i 'type =' scopus.bib | sort | uniq -c```
 
-![Types](image-4.png)
+![Types](/img/image-4.png)
 
 Next I decided I wanted to see how many documents exists that had more than 25 pages.
 
