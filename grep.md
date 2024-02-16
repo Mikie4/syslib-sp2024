@@ -36,8 +36,8 @@ I then used AWK to filter out the range of page numbers the document was printed
 
 ```
 grep "pages =" scopus.bib | \
-awk -F" |{|}" 'BEGIN { printf "Documents with more than 25 pages: "} \
-{ if( $6 - $4 > 25 ) count++ } END { print count }
+awk -F" |{|}" 'BEGIN { printf "Documents with at least 25 pages: "} \
+{ if( $6 - $4 > 24 ) count++ } END { print count }
 ```
 
-![CMD Pages](/img/image-5.png)
+![Alt text](/img/image-5.png)
