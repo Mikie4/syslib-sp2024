@@ -30,3 +30,7 @@ I also included the exit message when exiting the yazcli. Seems someone has a se
 humor
 
 ![Alt text](/img/yaz-history.png)
+
+## bat
+bat was interesting. I liked the syntax highlighting, line numbers, and 'less' like paging.
+The intergration with github sounded interesting but I didn't actually try to use it.
