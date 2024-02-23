@@ -2,7 +2,8 @@
 
 ## Sudo
 Since I'm using a local VM, I had to install sudo, create a new user, and add the user 
-to the sudoers list. These steps were not included in the screenshot. 
+to the sudoers list. These steps were not included in the screenshot.
+
 ![Alt text](/img/sudo.png)
 
 
@@ -12,6 +13,7 @@ to the sudoers list. These steps were not included in the screenshot.
 ## TLDR
 This command was a little more than I want to include in a screenshot so I'm posting
 the history output.
+
 ![Alt text](/img/sudo-history.png)
 
 ## yaz
